@@ -24,7 +24,7 @@ Save the program and execute it .
 ```python
 # Developed By    : Venkatesh E
 # Register Number : 212221230119
-
+```
 ```cuda
 #include <stdio.h>
 #include <sys/time.h>
